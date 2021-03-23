@@ -5,18 +5,16 @@
 
 <p float="center">
   <img  src="https://github-readme-stats.vercel.app/api?username=sezgindev&show_icons=true&count_private=true&hide=contribs,issues" alt="SezginDev's github stats" />
-  </br>
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sezgindev&layout=compact&hide=html,css" alt="My favorite lang" />
 </p>
 
 
 ## 📚 Learning & Interested
 
-<code><img height="75" src="https://image.flaticon.com/icons/svg/882/882710.svg"></code>
 <code><img height="75" src="https://i0.wp.com/mac-torrent-download.net/wp-content/uploads/2015/04/Unity_3D_Pro_icon.jpg?resize=175%2C175"></code>
-<code><img height="75" src="https://image.flaticon.com/icons/svg/887/887813.svg"></code>
-<code><img height="75" src="https://www.vectorlogo.zone/logos/swift/swift-ar21.svg"></code>
-<code><img height="75" src="https://image.flaticon.com/icons/svg/3288/3288086.svg"></code>
+<code><img height="75" src="https://www.freeiconspng.com/uploads/c-logo-icon-18.png"></code>
+<code><img height="75" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png"></code>
+
 
 
 ## 📚 My Medium Account
