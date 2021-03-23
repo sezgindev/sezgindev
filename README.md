@@ -1,7 +1,7 @@
 ### Hi, welcome my home 👋
 <tr>
 <td><img src="https://media.giphy.com/media/Xc3R3j4KFMvH01ZWaJ/giphy.gif" width="200" height="300"></td>
-  <td>asdfasfasfsaf</td>
+  <td>qq</td>
 </tr>
 
 ## 📌 GitHub Stats And Top Languages
