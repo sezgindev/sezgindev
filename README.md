@@ -22,12 +22,12 @@
 
 ## 📫 How to Reach Me
 
-<p float="center">
+
 [![Linkedin Badge](https://img.shields.io/badge/sezginyilmaz-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sezginyilmazdev/)
 <a href="https://www.twitter.com/sezginyilmazdev/" target="_blank">
   <img width="30" height="30" border="0" align="center"  src="https://lh3.googleusercontent.com/proxy/at-nIQYH3FfsvuIH7eBn_rGVyeUgczuIWN60i4sBHekPwjohVbzOyMaLG8ZbSKXLBhs3eB_DoWBon4oLcFj0btw-AMV7MSpLg7k6n_oxZtOpEWYeW2dz4Z4VSuuTFcVrOw"/>
 </a>
-</p>
+
 
 ## ⚡ Fun Fact
 
