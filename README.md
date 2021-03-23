@@ -1,6 +1,6 @@
 ### Hi, welcome my home 👋
 </br>
-<img src="https://media.giphy.com/media/Fe22CajsYBJio/giphy.gif" style="width:100px; height:100px;">
+<img src="https://media.giphy.com/media/Fe22CajsYBJio/giphy.gif" width="500" height="600">
 
 </br>
 
