@@ -1,5 +1,5 @@
 ### Hi, welcome my home 👋
-
+<table>
 <tr>
 <td>
 <div align=”Left”> <div><img src="https://media.giphy.com/media/Xc3R3j4KFMvH01ZWaJ/giphy.gif" width="200" height="300" style="display: inline-block"></div> </DIV>
@@ -8,7 +8,7 @@
 <div align=”Right”> <div><img src="https://media.giphy.com/media/Xc3R3j4KFMvH01ZWaJ/giphy.gif" width="200" height="300" style="display: inline-block"></div> </DIV>
 </td>
 </tr>
-
+</table>
 ## 📌 GitHub Stats And Top Languages
 
 <p float="center">
