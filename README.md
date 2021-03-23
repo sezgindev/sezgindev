@@ -38,10 +38,13 @@
 <a href="https://www.linkedin.com/in/sezginyilmazdev/" target="_blank">
   <img width="50" height="50" border="0" align="center"  src="http://pngimg.com/uploads/linkedIn/small/linkedIn_PNG16.png"/>
 </a>
+&nbsp;
+&nbsp;
 <a href="https://www.twitter.com/sezginyilmazdev/" target="_blank">
   <img width="52" height="52" border="0" align="center"  src="https://lh3.googleusercontent.com/proxy/at-nIQYH3FfsvuIH7eBn_rGVyeUgczuIWN60i4sBHekPwjohVbzOyMaLG8ZbSKXLBhs3eB_DoWBon4oLcFj0btw-AMV7MSpLg7k6n_oxZtOpEWYeW2dz4Z4VSuuTFcVrOw"/>
 </a>
-
+&nbsp;
+&nbsp;
 <a href="https://www.instagram.com/sezginyilmazdev" target="_blank">
   <img width="52" height="52" border="0" align="center"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png">
 </a>
