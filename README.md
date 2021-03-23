@@ -24,7 +24,7 @@
 ## 📫 How to Reach Me
 
 
-[![Linkedin Badge](https://img.shields.io/badge/utkuglsvn-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sezginyilmazdev/)
+[![Linkedin Badge](https://img.shields.io/badge/SEZGfollow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sezginyilmazdev/)
 
 ## ⚡ Fun Fact
 
