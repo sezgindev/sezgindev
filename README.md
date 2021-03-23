@@ -1,8 +1,8 @@
 ### Hi, welcome my home 👋
 
-<table style=" border:none">
+<table style="border:hidden;">
 <tr>
-<td style=" border:none">
+<td style="border:hidden;">
 <div align=”Left”> <div><img src="https://media.giphy.com/media/Xc3R3j4KFMvH01ZWaJ/giphy.gif" width="200" height="300" style="display: inline-block"></div> </DIV>
 </td>
 <td>
