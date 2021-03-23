@@ -1,6 +1,6 @@
 ### Hi, welcome my home 👋
 </br>
-<img src="https://media.giphy.com/media/Fe22CajsYBJio/giphy.gif" style="width:400px;height:100px;" alt="Windows Firewall">
+<img src="https://media.giphy.com/media/Fe22CajsYBJio/giphy.gif" style="width:100px; height:100px;">
 
 </br>
 
