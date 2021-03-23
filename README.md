@@ -57,8 +57,4 @@
 </a>
 
 
-## ⚡ Fun Fact
-
-I am a Game Developer <3
-
 
