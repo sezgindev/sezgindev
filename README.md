@@ -32,7 +32,7 @@
 </a>
 
 <a href="https://www.instagram.com/sezginyilmazdev" target="_blank">
-  <img width="52" height="52" border="0" align="center"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png/">
+  <img width="52" height="52" border="0" align="center"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png">
 </a>
 
 
