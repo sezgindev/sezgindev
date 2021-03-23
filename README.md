@@ -11,9 +11,9 @@
 
 ## 📚 Learning & Interested
 
-<code><img height="75" src="https://i0.wp.com/mac-torrent-download.net/wp-content/uploads/2015/04/Unity_3D_Pro_icon.jpg?resize=175%2C175"></code>
-<code><img height="75" src="https://www.freeiconspng.com/uploads/c-logo-icon-18.png"></code>
-<code><img height="75" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png"></code>
+<img height="75" src="https://i0.wp.com/mac-torrent-download.net/wp-content/uploads/2015/04/Unity_3D_Pro_icon.jpg?resize=175%2C175">
+<img height="75" src="https://www.freeiconspng.com/uploads/c-logo-icon-18.png">
+<img height="75" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png">
 
 
 
