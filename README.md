@@ -12,7 +12,7 @@
 </table>
 
 
-###📌 GitHub Stats And Top Languages
+### 📌 GitHub Stats And Top Languages
 
 <p float="center">
   <img  src="https://github-readme-stats.vercel.app/api?username=sezgindev&show_icons=true&count_private=true&hide=contribs,issues" alt="SezginDev's github stats" />
