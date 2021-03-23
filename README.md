@@ -1,6 +1,6 @@
 ### Hi, welcome my home 👋
 
-<table>
+<table border="0 >
 <tr>
 <td>
 <div align=”Left”> <div><img src="https://media.giphy.com/media/Xc3R3j4KFMvH01ZWaJ/giphy.gif" width="200" height="300" style="display: inline-block"></div> </DIV>
