@@ -27,7 +27,6 @@
 <a href="https://www.linkedin.com/in/sezginyilmazdev/" target="_blank">
   <img width="50" height="50" border="0" align="center"  src="https://lh3.googleusercontent.com/proxy/VxY5Gb6ZLGYZ2ZLdBi00C74Mak4KOVy2acNN2WAuw0ewe2ETaVPfNK03ftCNVVYMik3NrApRZfcpBddyjWXJ6L6C0TWG9FGA7oDYRzQmOEf2OGTIHfK2jWTtA-bPqqYexik"/>
 </a>
-
 <a href="https://www.twitter.com/sezginyilmazdev/" target="_blank">
   <img width="50" height="50" border="0" align="center"  src="https://lh3.googleusercontent.com/proxy/at-nIQYH3FfsvuIH7eBn_rGVyeUgczuIWN60i4sBHekPwjohVbzOyMaLG8ZbSKXLBhs3eB_DoWBon4oLcFj0btw-AMV7MSpLg7k6n_oxZtOpEWYeW2dz4Z4VSuuTFcVrOw"/>
 </a>
