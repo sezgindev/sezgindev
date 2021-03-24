@@ -6,7 +6,10 @@
 <div align=”Left”> <div><img src="https://media.giphy.com/media/Xc3R3j4KFMvH01ZWaJ/giphy.gif" width="200" height="300" style="display: inline-block"></div> </DIV>
 </td>
 <td>
-  <div align=”Right”>💻 I am a Game Developer and game lover. </br>
+  <div align=”Right”>
+    ## ⚡ Fun Fac </br>
+    
+  💻 I am a Game Developer and game lover. </br>
   😔 A former flutter developer</br>
 
   </br>dsfsdg</br>dsfsdf</DIV>
