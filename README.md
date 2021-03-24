@@ -9,7 +9,7 @@
   <h2>⚡ Fun Fact</h2>
   <div align=”Right”>
 
-💻 I am a Game Developer and game lover. </br>
+💻 <h2>I am a Game Developer and game lover. </h2></br>
 🤓I am using Unity3D but this may change one day :) </br>
 😔 A former flutter developer</br>
 </DIV>
