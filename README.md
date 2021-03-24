@@ -1,12 +1,12 @@
 ### Hi, welcome my home 👋
-
+ ⚡ <h1>Fun Fact<h1> </br>
 <table>
 <tr>
 <td>
 <div align=”Left”> <div><img src="https://media.giphy.com/media/Xc3R3j4KFMvH01ZWaJ/giphy.gif" width="200" height="300" style="display: inline-block"></div> </DIV>
 </td>
 <td>
- ⚡ <h1>Fun Fact<h1> </br>
+
   <div align=”Right”>
 
  💻 I am a Game Developer and game lover. </br>
