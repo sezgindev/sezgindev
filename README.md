@@ -1,5 +1,5 @@
 ### Hi, welcome my home 👋
- ⚡ <h1>Fun Fact<h1> </br>
+##⚡Fun Fact </br>
 <table>
 <tr>
 <td>
