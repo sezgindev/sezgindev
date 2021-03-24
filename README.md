@@ -22,6 +22,7 @@
 
 <p float="center">
   <img  src="https://github-readme-stats.vercel.app/api?username=sezgindev&show_icons=true&count_private=true&hide=contribs,issues" alt="SezginDev's github stats" />
+    &nbsp;
  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sezgindev&layout=compact&hide=html,css" alt="My favorite lang" />
 </p>
 
