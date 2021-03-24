@@ -9,10 +9,10 @@
   <h2>⚡ Fun Fact</h2>
   <div align=”Right”>
 
- 💻 I am a Game Developer and game lover. </br>
-  😔 A former flutter developer</br>
-
-  </br>dsfsdg</br>dsfsdf</DIV>
+💻 I am a Game Developer and game lover. </br>
+🤓I am using Unity3D but this may change one day :) </br>
+😔 A former flutter developer</br>
+</DIV>
 </td>
 </tr>
 </table>
