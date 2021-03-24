@@ -7,7 +7,7 @@
 </td>
 <td>
   <div align=”Right”>
-    ## ⚡ Fun Fac </br>
+    ## ⚡ Fun Fact </br>
     
   💻 I am a Game Developer and game lover. </br>
   😔 A former flutter developer</br>
